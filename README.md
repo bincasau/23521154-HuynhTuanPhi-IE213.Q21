@@ -13,6 +13,7 @@ Môn học: IE213.Q21 - Kỹ thuật phát triển hệ thống Web
 - Lab01: MONGODB
 - Lab02: THIẾT LẬP BACKEND VỚI NODE|EXPRESSJS
 - Lab03: HOẠN THIỆN BACKEND CHO ỨNG DỤNG MINH HỌA
+- Lab04: THIẾT LẬP FRONTEND VỚI REACTJS
 
 # Mô tả ngắn từng Lab
 
@@ -31,14 +32,22 @@ Lab03:
 - Viết các api cho review
 - Bổ sung 2 api lấy rating và thông tin có liên quan movie
 
+Lab04:
+
+- Thiết lập nơi làm việc với frontend của dự án.
+- Xây dựng Navigation Header bar cho ứng dụng.
+- Thiết lập các định tuyến cho các component.
+
 # Cách chạy chương trình
 
 - Lab01: copy các lệnh tại Lab01/23521154-BT01.md
-- Lab02: copy các lệnh tại Lab02/23521154-BT01.md
-- Lab03: copy các lệnh tại Lab02/23521154-BT01.md
+- Lab02: copy các lệnh tại Lab02/23521154-BT02.md
+- Lab03: copy các lệnh tại Lab03/23521154-BT03.md
+- Lab03: copy các lệnh tại Lab04/23521154-BT04.md
 
 # Nội dung đã hoàn thành
 
-- Lab01: Hoàn thiện tất cả các yêu cầu: thiết lập môi trường, tải và code trên compass, thao tác trên mongosh để chạy các lệnh theo yêu cầu từ câu 2.1 tới 2.10
-- Lab02: Hoàn thành tất cả yêu cầu: thiết lập các Controller và các DAO để xây dựng API kết nối đến MongoDB. Bắt được API thành công
-- Lab03: Hoàn thành tất cả yêu cầu: bổ sung api cho review và movie đồng thời test các api
+- Lab01: Hoàn thiện tất cả yêu cầu: Thiết lập môi trường, tải và code trên compass, thao tác trên mongosh
+- Lab02: Hoàn thành tất cả yêu cầu: Thiết lập các Controller và các DAO để xây dựng API kết nối đến MongoDB. Bắt được API thành công
+- Lab03: Hoàn thành tất cả yêu cầu: Bổ sung api cho review và movie đồng thời test các api
+- Lab04: Hoàn thành tất cả yêu cầu: Thiết lập frontend, component và các định tuyến
