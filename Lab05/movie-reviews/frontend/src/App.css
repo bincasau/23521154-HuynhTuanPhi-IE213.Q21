@@ -1,0 +1,53 @@
+.app-shell {
+  min-height: 100vh;
+  background: linear-gradient(180deg, #f6f8fb 0%, #eef2f7 100%);
+}
+
+.app-navbar {
+  background: #111827;
+  box-shadow: 0 12px 30px rgba(17, 24, 39, 0.15);
+}
+
+.page-hero {
+  margin-bottom: 1.5rem;
+  padding: 1.5rem;
+  border-radius: 1rem;
+  background: #fff;
+  box-shadow: 0 8px 24px rgba(15, 23, 42, 0.08);
+}
+
+.movie-card {
+  box-shadow: 0 10px 25px rgba(15, 23, 42, 0.08);
+  border: 0;
+  border-radius: 1rem;
+  overflow: hidden;
+}
+
+.movie-card img {
+  object-fit: cover;
+  height: 240px;
+}
+
+.movie-plot {
+  color: #475569;
+}
+
+.movie-detail-page {
+  padding-bottom: 2rem;
+}
+
+.auth-card,
+.review-form-card {
+  max-width: 560px;
+  border: 0;
+  border-radius: 1rem;
+  box-shadow: 0 10px 25px rgba(15, 23, 42, 0.08);
+}
+
+.auth-card {
+  padding: 1.5rem;
+}
+
+.user-badge {
+  color: rgba(255, 255, 255, 0.8);
+}
