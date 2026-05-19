@@ -59,7 +59,7 @@ Lab06:
 - Lab03: copy các lệnh tại Lab03/23521154-BT03.md
 - Lab03: copy các lệnh tại Lab04/23521154-BT04.md
 - Lab05: copy các lệnh tại Lab05/23521154-BT05.md
-- Lab05: copy các lệnh tại Lab05/23521154-BT06.md
+- Lab06: copy các lệnh tại Lab05/23521154-BT06.md
 
 # Nội dung đã hoàn thành
 
