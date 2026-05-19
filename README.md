@@ -15,6 +15,7 @@ Môn học: IE213.Q21 - Kỹ thuật phát triển hệ thống Web
 - Lab03: HOẠN THIỆN BACKEND CHO ỨNG DỤNG MINH HỌA
 - Lab04: THIẾT LẬP FRONTEND VỚI REACTJS
 - Lab05: XÂY DỰNG FRONTEND VỚI REACTJS
+- Lab06: XÂY DỰNG FRONTEND VỚI REACTJS (tt)
 
 # Mô tả ngắn từng Lab
 
@@ -46,6 +47,11 @@ Lab05:
 - Hiển thị chi tiết phim, danh sách review và chức năng thêm/sửa/xóa review.
 - Thiết lập định tuyến bằng `react-router-dom`.
 
+Lab06: 
+- Viết 2 chức năng edit, create và delete review
+- Bổ sung hàm getAll() cho trang kế tiếp
+- Bổ sung hàm find()
+
 # Cách chạy chương trình
 
 - Lab01: copy các lệnh tại Lab01/23521154-BT01.md
@@ -53,6 +59,7 @@ Lab05:
 - Lab03: copy các lệnh tại Lab03/23521154-BT03.md
 - Lab03: copy các lệnh tại Lab04/23521154-BT04.md
 - Lab05: copy các lệnh tại Lab05/23521154-BT05.md
+- Lab05: copy các lệnh tại Lab05/23521154-BT06.md
 
 # Nội dung đã hoàn thành
 
@@ -61,3 +68,4 @@ Lab05:
 - Lab03: Hoàn thành tất cả yêu cầu: Bổ sung api cho review và movie đồng thời test các api
 - Lab04: Hoàn thành tất cả yêu cầu: Thiết lập frontend, component và các định tuyến
 - Lab05: Hoàn thành tất cả yêu cầu: Kết nối frontend với backend, xây dựng tìm kiếm movie, hiển thị review và thêm/sửa/xóa review
+- Lab06: Hoàn thành tất cá yêu cầu: Thêm edit, create, delete reviews. Bổ sung hàm getAl() và find()
